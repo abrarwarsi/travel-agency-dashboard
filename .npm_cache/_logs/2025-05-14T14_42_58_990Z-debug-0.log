@@ -1669,3 +1669,12 @@
 1478 timing reify:trash Completed in 0ms
 1479 timing reify:save Completed in 279ms
 1480 timing reify Completed in 19350ms
+1481 timing command:create Completed in 166296ms
+1482 notice
+1482 notice New [31mmajor[39m version of npm available! [31m10.2.3[39m -> [32m11.3.0[39m
+1482 notice Changelog: [36mhttps://github.com/npm/cli/releases/tag/v11.3.0[39m
+1482 notice Run [32mnpm install -g npm@11.3.0[39m to update!
+1482 notice
+1483 verbose exit 0
+1484 timing npm Completed in 167064ms
+1485 info ok
